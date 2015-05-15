@@ -1,5 +1,4 @@
 import java.util.*;
-
 import acm.graphics.*;
 import acm.program.*;
 
